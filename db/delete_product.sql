@@ -1,0 +1,1 @@
+DELETE FROM product WHERE person_id = $1;
